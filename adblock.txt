@@ -1,0 +1,34 @@
+[Adblock Plus 1.1]
+! 
+! AdBlock Subscription - AllowAds
+! Developed  and Maintained by Justin Yost
+! This subscription is designed to allow ads past AdBlock that are effective and
+! creative advertising, that I personally enjoy. It also blocks stuff that is
+! annoying and clutters up the web.
+!
+!- Stackoverflow Ads -!
+@@|http://ads.stackoverflow.com/
+!- The Deck Ads -!
+@@|http://www.northmay.com/deck/
+@@|http://connect.decknetwork.net/
+@@|div#SidebarTheDeck
+!- CodingHorror.com Ads -!
+@@-.welovecodinghorror
+!- Project Wonderful -!
+@@|http://projectwonderful.com/
+@@|http://www.projectwonderful.com/
+!- IndieClick -!
+@@|http://optimize.indieclick.com/
+!- Fusion Ads -!
+@@|http://adn.fusionads.net/
+@@|https://adn.fusionads.net/
+@@!http://assets0.fusionads.net/
+@@!https://assets0.fusionads.net/
+!- Stupid Side Scrolling Share Buttons -!
+###floating_tools
+###sharebar
+###postSharing
+###ps-widgets
+###top_chicklets
+msmagazine.com##.getsocial
+gocomics.com###meebo
