@@ -1,11 +1,14 @@
 [Adblock Plus 1.1]
 ! 
-! AdBlock Subscription - AllowAds
+! AdBlock Custom - https://github.com/jtyost2/AdBlock-Custom
 ! Developed  and Maintained by Justin Yost
-! This subscription is designed to allow ads past AdBlock that are effective and
-! creative advertising, that I personally enjoy. It also blocks stuff that is
+! This subscription is designed to allow ads that are effective, creative
+! and interesting advertising. It also blocks stuff that is
 ! annoying and clutters up the web.
 !
+
+!-- Unremove Ads --!
+
 !- Stackoverflow Ads -!
 @@|http://ads.stackoverflow.com/
 !- The Deck Ads -!
@@ -24,6 +27,9 @@
 @@|https://adn.fusionads.net/
 @@!http://assets0.fusionads.net/
 @@!https://assets0.fusionads.net/
+
+!-- Remove Stupid Stuff --!
+
 !- Stupid Side Scrolling Share Buttons -!
 ###floating_tools
 ###sharebar
@@ -31,4 +37,6 @@
 ###ps-widgets
 ###top_chicklets
 msmagazine.com##.getsocial
+
+!- Stupid Floating Footers for Sharing -!
 gocomics.com###meebo
