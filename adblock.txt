@@ -39,4 +39,8 @@
 msmagazine.com##.getsocial
 
 !- Stupid Floating Footers for Sharing -!
+###wibiyaToolbar
+###aptureD
+
+!- Site Specific Toolbars -!
 gocomics.com###meebo
