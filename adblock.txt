@@ -14,7 +14,7 @@
 !- The Deck Ads -!
 @@|http://www.northmay.com/deck/
 @@|http://connect.decknetwork.net/
-@@|div#SidebarTheDeck
+###SidebarTheDeck
 !- CodingHorror.com Ads -!
 @@-.welovecodinghorror
 !- Project Wonderful -!
