@@ -14,8 +14,8 @@
 !- The Deck Ads -!
 @@|http://www.northmay.com/deck/
 @@|http://connect.decknetwork.net/
-@@|#SidebarTheDeck
-@@|div#SidebarTheDeck
+@@div#SidebarTheDeck
+@@|http://daringfireball.net
 !- CodingHorror.com Ads -!
 @@-.welovecodinghorror
 !- Project Wonderful -!
@@ -37,11 +37,12 @@
 ###postSharing
 ###ps-widgets
 ###top_chicklets
-msmagazine.com##.getsocial
 
 !- Stupid Floating Footers for Sharing -!
 ###wibiyaToolbar
 ###aptureD
+###embtv-static-closed-bottom
 
 !- Site Specific Toolbars -!
 gocomics.com###meebo
+msmagazine.com##.getsocial
