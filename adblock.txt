@@ -9,6 +9,8 @@
 
 !-- Unremove Ads --!
 
+!- Load Localhost Ads for Testing -!
+@@|http://localhost/
 !- Stackoverflow Ads -!
 @@|http://ads.stackoverflow.com/
 !- The Deck Ads -!
