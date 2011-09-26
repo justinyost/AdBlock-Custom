@@ -1,3 +1,10 @@
 Basically this set of AdBlock Plus rules puts back ads that are useful/interesting and removes stupid social sharing tools.
 
+To include these rules:
+	Firefox:
+		Open Adblock Plus Prefences
+		Click on the Filters Button on the AdBlock Plus Menu
+		Click on Add Filter
+		Type in either  http://this.is.the.location.of.your.hosted.version.of.the.github.rep.com/adblcok.txt OR https://raw.github.com/jtyost2/AdBlock-Custom/master/adblock.txt
+	
 AdBlock Plus: http://adblockplus.org/
