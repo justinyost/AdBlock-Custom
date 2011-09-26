@@ -5,6 +5,6 @@ To include these rules:
 		Open Adblock Plus Prefences
 		Click on the Filters Button on the AdBlock Plus Menu
 		Click on Add Filter
-		Type in either  http://this.is.the.location.of.your.hosted.version.of.the.github.rep.com/adblcok.txt OR https://raw.github.com/jtyost2/AdBlock-Custom/master/adblock.txt
+		Type in either  http://this.is.the.location.of.your.hosted.version.of.the.github.repo.com/adblock.txt OR https://raw.github.com/jtyost2/AdBlock-Custom/master/adblock.txt
 	
 AdBlock Plus: http://adblockplus.org/
