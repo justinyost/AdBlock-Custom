@@ -44,7 +44,9 @@
 ###wibiyaToolbar
 ###aptureD
 ###embtv-static-closed-bottom
+###meebo
+###meebo-canvas-6
+###meebo-iframe
 
 !- Site Specific Toolbars -!
-gocomics.com###meebo
 msmagazine.com##.getsocial
