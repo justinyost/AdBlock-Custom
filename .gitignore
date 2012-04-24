@@ -11,3 +11,6 @@ Icon?
 # Windows image file caches
 Thumbs.dbdsfg
 # Folder config file
+
+#Ignore index.php for ads.yostivanich.com
+index.php
