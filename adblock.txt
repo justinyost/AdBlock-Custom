@@ -45,8 +45,13 @@
 ###aptureD
 ###embtv-static-closed-bottom
 ###meebo
-###meebo-canvas-6
 ###meebo-iframe
+###meebo-canvas-1
+###meebo-canvas-2
+###meebo-canvas-3
+###meebo-canvas-4
+###meebo-canvas-5
+###meebo-canvas-6
 
 !- Site Specific Toolbars -!
 msmagazine.com##.getsocial
