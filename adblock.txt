@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! 
+!
 ! AdBlock Custom - https://github.com/jtyost2/AdBlock-Custom
 ! Developed  and Maintained by Justin Yost
 ! This subscription is designed to allow ads that are effective, creative
@@ -55,3 +55,6 @@
 
 !- Site Specific Toolbars -!
 msmagazine.com##.getsocial
+
+!- Site Specific Ads -!
+backpacker.com###gray_overlay
