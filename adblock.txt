@@ -55,6 +55,7 @@
 
 !- Site Specific Toolbars -!
 msmagazine.com##.getsocial
+technologyreview.com####action-bar
 
 !- Site Specific Ads -!
 backpacker.com###gray_overlay
