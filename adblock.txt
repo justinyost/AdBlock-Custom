@@ -40,24 +40,24 @@
 !-- Remove Stupid Stuff --!
 
 !- Stupid Side Scrolling Share Buttons -!
-[id="floating_tools"]
-[id="sharebar"]
-[id="postSharing"]
-[id="ps-widgets"]
-[id="top_chicklets"]
+##[id="floating_tools"]
+##[id="sharebar"]
+##[id="postSharing"]
+##[id="ps-widgets"]
+##[id="top_chicklets"]
 
 !- Stupid Floating Footers for Sharing -!
-[id="wibiyaToolbar"]
-[id="aptureD"]
-[id="embtv-static-closed-bottom"]
-[id="meebo"]
-[id="meebo-iframe"]
-[id="meebo-canvas-1"]
-[id="meebo-canvas-2"]
-[id="meebo-canvas-3"]
-[id="meebo-canvas-4"]
-[id="meebo-canvas-5"]
-[id="meebo-canvas-6"]
+##[id="wibiyaToolbar"]
+##[id="aptureD"]
+##[id="embtv-static-closed-bottom"]
+##[id="meebo"]
+##iframe[id="meebo-iframe"]
+##[id="meebo-canvas-1"]
+##[id="meebo-canvas-2"]
+##[id="meebo-canvas-3"]
+##[id="meebo-canvas-4"]
+##[id="meebo-canvas-5"]
+##[id="meebo-canvas-6"]
 
 !- Site Specific Toolbars -!
 msmagazine.com##div[id="dd_ajax_float"]
