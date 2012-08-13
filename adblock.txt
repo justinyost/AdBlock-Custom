@@ -1,4 +1,4 @@
-[Adblock Plus 1.1]
+[Adblock Plus 1.2]
 !
 ! AdBlock Custom - https://github.com/jtyost2/AdBlock-Custom
 ! Developed  and Maintained by Justin Yost
@@ -10,52 +10,59 @@
 !-- Unremove Ads --!
 
 !- Load Localhost Ads for Testing -!
-@@|http://localhost/
+@@|http://localhost/$document
+
 !- Stackoverflow Ads -!
-@@|http://ads.stackoverflow.com/
+@@|http://ads.stackoverflow.com/$document
+
 !- The Deck Ads -!
-@@|http://www.northmay.com/deck/
-@@|http://connect.decknetwork.net/
+@@|http://www.northmay.com/deck/$document
+@@|http://connect.decknetwork.net/$document
 @@div#SidebarTheDeck
-@@|http://daringfireball.net
+@@|http://daringfireball.net/$document
+
 !- CodingHorror.com Ads -!
 @@-.welovecodinghorror
+
 !- Project Wonderful -!
-@@|http://projectwonderful.com/
-@@|http://www.projectwonderful.com/
+@@|http://projectwonderful.com/$document
+@@|http://www.projectwonderful.com/$document
+
 !- IndieClick -!
-@@|http://optimize.indieclick.com/
+@@|http://optimize.indieclick.com/$document
+
 !- Fusion Ads -!
-@@|http://adn.fusionads.net/
-@@|https://adn.fusionads.net/
-@@!http://assets0.fusionads.net/
-@@!https://assets0.fusionads.net/
+@@|http://adn.fusionads.net/$document
+@@|https://adn.fusionads.net/$document
+@@!http://assets0.fusionads.net/$document
+@@!https://assets0.fusionads.net/$document
 
 !-- Remove Stupid Stuff --!
 
 !- Stupid Side Scrolling Share Buttons -!
-###floating_tools
-###sharebar
-###postSharing
-###ps-widgets
-###top_chicklets
+[id="floating_tools"]
+[id="sharebar"]
+[id="postSharing"]
+[id="ps-widgets"]
+[id="top_chicklets"]
 
 !- Stupid Floating Footers for Sharing -!
-###wibiyaToolbar
-###aptureD
-###embtv-static-closed-bottom
-###meebo
-###meebo-iframe
-###meebo-canvas-1
-###meebo-canvas-2
-###meebo-canvas-3
-###meebo-canvas-4
-###meebo-canvas-5
-###meebo-canvas-6
+[id="wibiyaToolbar"]
+[id="aptureD"]
+[id="embtv-static-closed-bottom"]
+[id="meebo"]
+[id="meebo-iframe"]
+[id="meebo-canvas-1"]
+[id="meebo-canvas-2"]
+[id="meebo-canvas-3"]
+[id="meebo-canvas-4"]
+[id="meebo-canvas-5"]
+[id="meebo-canvas-6"]
 
 !- Site Specific Toolbars -!
-msmagazine.com##.getsocial
-technologyreview.com####action-bar
+msmagazine.com##div[id="dd_ajax_float"]
+msmagazine.com##div[class="getsocial"]
+technologyreview.com##div[id="action-bar"]
 
 !- Site Specific Ads -!
-backpacker.com###gray_overlay
+backpacker.com##div[id="gray_overlay"]
