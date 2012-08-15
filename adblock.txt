@@ -63,6 +63,7 @@
 msmagazine.com##div[id="dd_ajax_float"]
 msmagazine.com##div[class="getsocial"]
 technologyreview.com##div[id="action-bar"]
+wsj.com##div[id="valetTools-left"]
 
 !- Site Specific Ads -!
 backpacker.com##div[id="gray_overlay"]
