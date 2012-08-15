@@ -39,14 +39,13 @@
 
 !-- Remove Stupid Stuff --!
 
-!- Stupid Side Scrolling Share Buttons -!
+!- Stupid Share Buttons/Footers/etc -!
 ##[id="floating_tools"]
 ##[id="sharebar"]
 ##[id="postSharing"]
 ##[id="ps-widgets"]
 ##[id="top_chicklets"]
-
-!- Stupid Floating Footers for Sharing -!
+##div[gigid ="showShareBarUI"]
 ##[id="wibiyaToolbar"]
 ##[id="aptureD"]
 ##[id="embtv-static-closed-bottom"]
