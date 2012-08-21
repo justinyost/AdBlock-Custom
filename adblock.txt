@@ -60,6 +60,7 @@
 ##div[id="shareFloat"]
 ##div[id="shareNarrow"]
 ##div[class="shareNarrow"]
+##div[class="social-tools"]
 
 !- Site Specific Toolbars -!
 msmagazine.com##div[id="dd_ajax_float"]
