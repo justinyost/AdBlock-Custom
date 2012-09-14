@@ -51,6 +51,7 @@
 ##[id="embtv-static-closed-bottom"]
 ##[id="meebo"]
 ##iframe[id="meebo-iframe"]
+##[id="meebo-iframe"]
 ##[id="meebo-canvas-1"]
 ##[id="meebo-canvas-2"]
 ##[id="meebo-canvas-3"]
@@ -63,6 +64,7 @@
 ##div[class="social-tools"]
 ##div[id="incsharebox"]
 ##ul[class="socialActions"]
+##div[class="getsocial"]
 
 !- Site Specific Toolbars -!
 msmagazine.com##div[id="dd_ajax_float"]
