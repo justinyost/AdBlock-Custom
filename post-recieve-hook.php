@@ -1,13 +1,17 @@
 <?php
-//This is not a valid GitHub Post Recieve Hook, ignore
-if (!array_key_exists('payload', $_POST)) {
+//This is a valid GitHub Post Recieve Hook - Post data and IP Addresses match
+if (
+	array_key_exists('payload', $_POST)
+	&& (
+		$_SERVER['REMOTE_ADDR'] == '207.97.227.253'
+		|| $_SERVER['REMOTE_ADDR'] == '50.57.128.197'
+		|| $_SERVER['REMOTE_ADDR'] == '108.171.174.178'
+	)
+) {
+	//Basic Pull Rebase
+	exec('git pull --rebase');
 	exit;
 }
 
-//Extract GitHub Payload
-//extract(json_decode(stripslashes($_POST['payload']), true));
-
-//Basic Pull Rebase
-exec('git pull --rebase');
-
+exit;
 ?>
