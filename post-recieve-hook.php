@@ -5,7 +5,7 @@ if (!array_key_exists('payload', $_POST)) {
 }
 
 //Extract GitHub Payload
-extract(json_decode(stripslashes($_POST['payload']), true));
+//extract(json_decode(stripslashes($_POST['payload']), true));
 
 //Basic Pull Rebase
 exec('git pull --rebase');
