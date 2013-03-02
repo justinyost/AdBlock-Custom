@@ -73,6 +73,7 @@ technologyreview.com##div[id="action-bar"]
 wsj.com##div[id="valetTools-left"]
 inc.com##div[id="subscribepopup"]
 lagentz.com##div[id="dd_ajax_float"]
+washingtonpost.com##div[id="floatMenu"]
 
 !- Site Specific Ads -!
 backpacker.com##div[id="gray_overlay"]
