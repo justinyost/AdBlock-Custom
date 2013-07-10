@@ -77,3 +77,7 @@ washingtonpost.com##div[id="floatMenu"]
 
 !- Site Specific Ads -!
 backpacker.com##div[id="gray_overlay"]
+
+!- NYTimes Limits -!
+*://*.nytimes.com/*/gwy.js*
+*://*.nytimes.com/*/gw.js*
