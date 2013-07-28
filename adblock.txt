@@ -39,6 +39,9 @@
 @@!http://assets0.fusionads.net/$document
 @@!https://assets0.fusionads.net/$document
 
+!- SMBC-Comics.com -!
+smbc-comics.com#@#div#sharebar
+
 !-- Remove Stupid Stuff --!
 
 !- Stupid Share Buttons/Footers/etc -!
