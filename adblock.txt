@@ -9,41 +9,6 @@
 ! Homepage: http://ads.yostivanich.com/
 ! Title: AdBlock Custom
 
-!-- Unremove Ads --!
-
-!- Load Localhost Ads for Testing -!
-@@|http://localhost/$document
-@@|https://localhost/$document
-@@|site/$document
-
-!- Stackoverflow Ads -!
-@@|http://ads.stackoverflow.com/$document
-
-!- The Deck Ads -!
-@@|http://www.northmay.com/deck/$document
-@@|http://connect.decknetwork.net/$document
-@@div#SidebarTheDeck
-@@|http://daringfireball.net/$document
-
-!- CodingHorror.com Ads -!
-@@-.welovecodinghorror
-
-!- Project Wonderful -!
-@@|http://projectwonderful.com/$document
-@@|http://www.projectwonderful.com/$document
-
-!- IndieClick -!
-@@|http://optimize.indieclick.com/$document
-
-!- Fusion Ads -!
-@@|http://adn.fusionads.net/$document
-@@|https://adn.fusionads.net/$document
-@@!http://assets0.fusionads.net/$document
-@@!https://assets0.fusionads.net/$document
-
-!- SMBC-Comics.com -!
-smbc-comics.com#@#[id="sharebar"]
-
 !-- Remove Stupid Stuff --!
 
 !- Stupid Share Buttons/Footers/etc -!
@@ -88,3 +53,38 @@ backpacker.com##div[id="gray_overlay"]
 !- NYTimes Limits -!
 *://*.nytimes.com/*/gwy.js*
 *://*.nytimes.com/*/gw.js*
+
+!-- Unremove Ads or Other Bits --!
+
+!- Load Localhost Ads for Testing -!
+@@|http://localhost/$document
+@@|https://localhost/$document
+@@|site/$document
+
+!- Stackoverflow Ads -!
+@@|http://ads.stackoverflow.com/$document
+
+!- The Deck Ads -!
+@@|http://www.northmay.com/deck/$document
+@@|http://connect.decknetwork.net/$document
+@@div#SidebarTheDeck
+@@|http://daringfireball.net/$document
+
+!- CodingHorror.com Ads -!
+@@-.welovecodinghorror
+
+!- Project Wonderful -!
+@@|http://projectwonderful.com/$document
+@@|http://www.projectwonderful.com/$document
+
+!- IndieClick -!
+@@|http://optimize.indieclick.com/$document
+
+!- Fusion Ads -!
+@@|http://adn.fusionads.net/$document
+@@|https://adn.fusionads.net/$document
+@@!http://assets0.fusionads.net/$document
+@@!https://assets0.fusionads.net/$document
+
+!- SMBC-Comics.com -!
+smbc-comics.com#@#[id="sharebar"]
