@@ -1,4 +1,4 @@
-[Adblock Plus 1.2]
+[Adblock Plus 2.0]
 !
 ! AdBlock Custom - https://github.com/jtyost2/AdBlock-Custom
 ! Developed  and Maintained by Justin Yost
@@ -6,6 +6,8 @@
 ! and interesting advertising. It also blocks stuff that is
 ! annoying and clutters up the web.
 !
+! Homepage: http://ads.yostivanich.com/
+! Title: AdBlock Custom
 
 !-- Unremove Ads --!
 
