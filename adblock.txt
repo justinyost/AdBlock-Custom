@@ -13,6 +13,8 @@
 
 !- Load Localhost Ads for Testing -!
 @@|http://localhost/$document
+@@|https://localhost/$document
+@@|site/$document
 
 !- Stackoverflow Ads -!
 @@|http://ads.stackoverflow.com/$document
@@ -40,7 +42,7 @@
 @@!https://assets0.fusionads.net/$document
 
 !- SMBC-Comics.com -!
-smbc-comics.com#@#div#sharebar
+smbc-comics.com#@#[id="sharebar"]
 
 !-- Remove Stupid Stuff --!
 
