@@ -50,6 +50,9 @@ washingtonpost.com##div[id="floatMenu"]
 !- Site Specific Ads -!
 backpacker.com##div[id="gray_overlay"]
 
+!- Around The Web Crud -!
+politico.com##div[id="taboola-grid-4x2"]
+
 !- NYTimes Limits -!
 *://*.nytimes.com/*/gwy.js*
 *://*.nytimes.com/*/gw.js*
