@@ -51,6 +51,8 @@ washingtonpost.com##div[id="floatMenu"]
 backpacker.com##div[id="gray_overlay"]
 
 !- Around The Web Crud -!
+*://cdn.taboolasyndication.com/libtrc/*
+##div[id="taboola-autosized-generated-2r"]
 politico.com##div[id="taboola-grid-4x2"]
 
 !- NYTimes Limits -!
