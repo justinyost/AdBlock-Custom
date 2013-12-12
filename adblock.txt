@@ -1,6 +1,6 @@
 !
 ! AdBlock Custom - https://github.com/jtyost2/AdBlock-Custom
-! Developed  and Maintained by Justin Yost
+! Developed and Maintained by Justin Yost
 ! This subscription is designed to allow ads that are effective, creative
 ! and interesting advertising. It also blocks stuff that is
 ! annoying and clutters up the web.
@@ -11,48 +11,49 @@
 !-- Remove Stupid Stuff --!
 
 !- Stupid Share Buttons/Footers/etc -!
-##[id="floating_tools"]
-##[id="sharebar"]
-##[id="postSharing"]
-##[id="ps-widgets"]
-##[id="top_chicklets"]
+##*#floating_tools
+##*#sharebar
+##*#postSharing
+##*#ps-widgets
+##*#top_chicklets
 ##div[gigid ="showShareBarUI"]
-##[id="wibiyaToolbar"]
-##[id="aptureD"]
-##[id="embtv-static-closed-bottom"]
-##[id="meebo"]
-##iframe[id="meebo-iframe"]
-##[id="meebo-iframe"]
-##[id="meebo-canvas-1"]
-##[id="meebo-canvas-2"]
-##[id="meebo-canvas-3"]
-##[id="meebo-canvas-4"]
-##[id="meebo-canvas-5"]
-##[id="meebo-canvas-6"]
-##div[id="shareFloat"]
-##div[id="shareNarrow"]
-##div[class="shareNarrow"]
-##div[class="social-tools"]
-##div[id="incsharebox"]
-##ul[class="socialActions"]
-##div[class="getsocial"]
+##*#wibiyaToolbar
+##*#aptureD
+##*#embtv-static-closed-bottom
+! Block Meebo Crud
+##*#meebo
+##iframe#meebo-iframe"]
+##*#meebo-iframe
+##*#meebo-canvas-1
+##*#meebo-canvas-2
+##*#meebo-canvas-3
+##*#meebo-canvas-4
+##*#meebo-canvas-5
+##*#meebo-canvas-6
+##div#shareFloat
+##div#shareNarrow
+##div.shareNarrow
+##div.social-tools
+##div#incsharebox
+##ul.socialActions
+##div.getsocial
 
 !- Site Specific Toolbars -!
-msmagazine.com##div[id="dd_ajax_float"]
-msmagazine.com##div[class="getsocial"]
-technologyreview.com##div[id="action-bar"]
-wsj.com##div[id="valetTools-left"]
-inc.com##div[id="subscribepopup"]
-lagentz.com##div[id="dd_ajax_float"]
-washingtonpost.com##div[id="floatMenu"]
+msmagazine.com##div#dd_ajax_float
+msmagazine.com##div.getsocial
+technologyreview.com##div#action-bar
+wsj.com##div#valetTools-left
+inc.com##div#subscribepopup
+lagentz.com##div#dd_ajax_float
+washingtonpost.com##div#floatMenu
 
 !- Site Specific Ads -!
-backpacker.com##div[id="gray_overlay"]
+backpacker.com##div#gray_overlay"]
 
 !- Around The Web Crud -!
 *://cdn.taboolasyndication.com/libtrc/*
-##div[id="taboola-autosized-generated-2r"]
-politico.com##div[id="taboola-grid-4x2"]
+##div#taboola-autosized-generated-2r
+politico.com##div#taboola-grid-4x2
 
 !- NYTimes Limits -!
 *://*.nytimes.com/*/gwy.js*
@@ -91,4 +92,4 @@ politico.com##div[id="taboola-grid-4x2"]
 @@!https://assets0.fusionads.net/$document
 
 !- SMBC-Comics.com -!
-smbc-comics.com#@#[id="sharebar"]
+smbc-comics.com#@#sharebar
