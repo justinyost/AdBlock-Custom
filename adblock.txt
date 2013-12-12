@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 !
 ! AdBlock Custom - https://github.com/jtyost2/AdBlock-Custom
 ! Developed  and Maintained by Justin Yost
