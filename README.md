@@ -1,3 +1,5 @@
+Not in active development.
+
 Basically this set of AdBlock Plus rules puts back ads that are useful/interesting and removes stupid social sharing tools.
 
 To include these rules:
